@@ -2,6 +2,7 @@
 name = "swift-maker-example"
 version = "0.1.0"
 edition = "2021"
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 [dependencies]
 dotenv = "0.15.0"

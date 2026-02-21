@@ -2,6 +2,7 @@
 name = "drift-client-callbacks"
 version = "0.1.0"
 edition = "2021"
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 [dependencies]
 drift-rs = { path = "../.." }

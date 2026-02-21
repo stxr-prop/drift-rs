@@ -2,6 +2,7 @@
 name = "event-subscriber"
 version = "0.1.0"
 edition = "2024"
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 [dependencies]
 dotenv = "0.15.0"
